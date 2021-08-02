@@ -56,7 +56,7 @@
 			<h2 class="display-14">WE ARE BLUE BREEZE !</h2>
 			<p class="py-1" style="font-family:'Courier New'">At BLUE BREEZE, you'll make memories that will be remembered for a lifetime.
 			With Luxorious Rooms and a Global Cuisine, we are a complete solution for your vacation needs. To expereince Ambience and Luxury at its best, we have perfectly designed rooms and also provide a world-class service for you and your family. 
-			So, for the best vacation ever, choose our Paradise!  </p>
+			So, for the best vacation ever, choose our marvellous Paradise!  </p>
 			<a href="about.php" class="btn btn-success"> Details </a>
 		</div>
 		</div>
